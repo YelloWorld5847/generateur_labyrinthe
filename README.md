@@ -1,6 +1,3 @@
-Il s'agit d'un générateur de labyrinthe à imprimer
-
-
 Générateur de Labyrinthes
 
 Un jeu interactif en Python pour générer et explorer des labyrinthes. Ce projet utilise Pygame pour l'affichage et propose des fonctionnalités dynamiques comme la personnalisation de la taille du labyrinthe et des contrôles pour déplacer un joueur à travers le labyrinthe généré.
